@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## 歡迎來到星力遊戲
 
-You can use the [editor on GitHub](https://github.com/HKXingli/XingliGame/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+台灣大鵬網絡科技發展有限公司
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HKXingli/XingliGame/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 我們的目標
+台灣大鵬網絡科技發展有限公司，公司總部位於台灣，自成立以來始終緻力於大鵬正版手遊、大鵬八代、大鵬手遊研發，大鵬正版手遊凝聚了大量的科技研發人才。是一家專注於手機遊戲研發和運營服務的新銳遊戲公司。我們憑藉公司前身十多年街機遊戲研發經驗，成功將多款熱門街機遊戲移植到手遊端，是首家轉型最徹底的街機手遊研發商。我們秉承以專業技術為核心，誠信為宗旨，創新為方向，在未來希望與每位合作夥伴攜手共贏、共創輝煌！繼續續寫動漫產業和民族文化的新篇章。 《移動電玩城》由我們經過一年多的市場調研，在充分了解市場需求的基礎上，響應國家科技創新政策，結合移動互聯網大趨勢，由十年街機團隊傾情奉獻，確保場地人氣與穩定盈利。
